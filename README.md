@@ -7,3 +7,5 @@ Menggunakan HTML tailwind JAVASCRIPT hehehe
 
 kalau mau lihat copas link ini
 "https://replit.com/@ggg851533/Saklar-Lampu"
+
+link project = https://randy46.github.io/Tugas-4/
